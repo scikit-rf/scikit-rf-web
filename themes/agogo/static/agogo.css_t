@@ -180,7 +180,6 @@ img.logo {
 
 /* Content */
 div.content-wrapper {
-  background-color: white;
   padding-left: 1.5em;
 }
 
@@ -190,6 +189,7 @@ div.document {
 }
 
 div.body {
+  /*font-size: {{ theme_bodyfontsize }};*/
   padding-right: 2em;
   text-align: {{ theme_textalign }};
 }
