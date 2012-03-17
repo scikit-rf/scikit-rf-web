@@ -18,8 +18,8 @@ Index
 ------------
 Description
 ------------
- `scikit-rf` (aka skrf) is an Object Oriented approach to RF/Microwave engineering implemented in the Python programming language. See the
- `introduction <http://packages.python.org/scikit-rf/tutorials/introduction.html>`_ for a quick look at some of the features of `scikit-rf`. 
+ ``scikit-rf`` (aka skrf) is an Object Oriented approach to RF/Microwave engineering implemented in the Python programming language. See the
+ `introduction <http://packages.python.org/scikit-rf/tutorials/introduction.html>`_ for a quick look at some of the features of ``scikit-rf``. 
 
 --------------------------
 Getting Started
@@ -37,7 +37,9 @@ Plot touchstone data on a smith chart, in 3 lines.
    ntwk = rf.Network('my_networks.s2p')
    ntwk.plot_s_smith()
 
-For more examples, please see the `docs <http://packages.python.org/scikit-rf/index.html>`_
+For more information, tutorials, and 
+
+examples, see the `docs <http://packages.python.org/scikit-rf/index.html>`_
 
 .. raw:: html
 
@@ -54,13 +56,12 @@ For more examples, please see the `docs <http://packages.python.org/scikit-rf/in
 Help/Feedback/BUGs
 --------------------------
 
-For questions about usage, suggestions, general feedback please
-see the `Mailing List <http://groups.google.com/group/scikit-rf>`_
+* For questions about usage, suggestions, general feedback please see the `Mailing List <http://groups.google.com/group/scikit-rf>`_
 
 
-If you find a problem in scikit-rf, please post an issue to the `Issue Tracker <https://github.com/scikit-rf/scikit-rf/issues>`_
+* If you find a problem in scikit-rf, please post an issue to the `Issue Tracker <https://github.com/scikit-rf/scikit-rf/issues>`_
 
-Still need help? Contact me at **arsenovic at virginia.edu**
+* Still need help? Contact me at **arsenovic at virginia.edu**
 
 
 
