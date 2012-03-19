@@ -19,7 +19,7 @@ Index
 Description
 ------------
  ``scikit-rf`` (aka skrf) is an Object Oriented approach to RF/Microwave engineering implemented in the Python programming language. See the
- `introduction <http://packages.python.org/scikit-rf/tutorials/introduction.html>`_ for a quick look at some of the features of ``scikit-rf``. 
+ `introduction <http://www.scikit-rf.org/doc/dev/tutorials/introduction.html>`_ for a quick look at some of the features of ``scikit-rf``. 
 
 --------------------------
 Getting Started
@@ -39,7 +39,7 @@ Plot touchstone data on a smith chart, in 3 lines.
 
 For more information, tutorials, and 
 
-examples, see the `docs <http://packages.python.org/scikit-rf/index.html>`_
+examples, see the `docs <http://www.scikit-rf.org/doc/dev/index.html>`_
 
 .. raw:: html
 
