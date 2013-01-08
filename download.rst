@@ -10,7 +10,7 @@ You can download the latest distribution from PyPI here: http://pypi.python.org/
 ~~~~~~~~~~~~~~~~
 Easy Install
 ~~~~~~~~~~~~~~~~
-Install the Easy Install tools. Afterwards you can install scikit-rf from the terminal by executing::
+Install `setuptools <http://pypi.python.org/pypi/setuptools>`_. Afterwards you can install**scikit-rf** from the terminal by executing::
 
     sudo easy_install scikit-rf
 
@@ -18,7 +18,7 @@ Install the Easy Install tools. Afterwards you can install scikit-rf from the te
 Source
 ~~~~~~~~
 
-The development version of `scikir-rf` may be installed using::
+The development version of ``scikit-rf`` may be installed using::
 
     $ git clone git@github.com:scikit-rf/scikit-rf.git
     $ cd scikit-rf
