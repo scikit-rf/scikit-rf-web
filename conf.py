@@ -125,7 +125,7 @@ html_short_title = "scikit-rf"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "scikit-rf-title-flat.png"
+html_logo = "scikit-rf-title-flat.svg"
 
 # The name of an image file (within the static path) to use as favicon of the
 # pixels large.
