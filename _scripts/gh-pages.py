@@ -92,9 +92,11 @@ if __name__ == '__main__':
     # This is pretty unforgiving: we unconditionally nuke the destination
     # directory, and then copy the html tree in there
     sh('rm -rf %s/*' % pages_dir)
+   
 
     sh('cp -r %s/* %s/' % (html_dir, pages_dir))
-    #sh('cp -r %s/.nojekyll %s/' % (html_dir, pages_dir)) #alex arsenovic commented this out because it caused error. 
+    sh('cp -r %s/../../.nojekyll %s/' % (html_dir, pages_dir)) #alex arsenovic modded this to add `..`
+    sh('cp -r %s/../../CNAME %s/' % (html_dir, pages_dir)) #alex arsenovic commented this out because it caused error. 
 
     try:
         cd(pages_dir)
