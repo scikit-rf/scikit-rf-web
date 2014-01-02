@@ -12,7 +12,7 @@
 # serve to show the default.
 
 import sys, os
-
+import sphinx_bootstrap_theme
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
@@ -42,7 +42,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'scikit-rf'
-copyright = u'2013, the scikit-rf development team'
+copyright = u'2014, the scikit-rf development team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -98,24 +98,32 @@ pygments_style = 'sphinx'
 # Sphinx are currently 'default' and 'sphinxdoc'.
 #html_theme = 'default'
 #html_theme = 'sphinxdoc'
-html_theme = 'agogo'  # inherits from sphinxdoc and modifies it a little
+#html_theme = 'agogo'  # inherits from sphinxdoc and modifies it a little
 
 # The style sheet to use for HTML and HTML Help pages. A file of that name
 # must exist either in Sphinx' static/ path, or in one of the custom paths
 # given in html_static_path.
-html_style = 'agogo.css'
+#html_style = 'agogo.css'
+ 
+html_theme = 'bootstrap'
+html_theme_options = {
+    'source_link_position': "footer",
+    'bootswatch_theme': "flatly",
+    'navbar_sidebarrel': True,
+    'bootstrap_version': "3",
+    }
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-html_theme_options = {}
+#html_theme_options = {}
 
 # Only works with the default theme, makes the sidebar not scroll:
 #html_theme_options = { "stickysidebar": "true" }
 
 # Add any paths that contain custom themes here, relative to this directory.
 html_theme_path = ['themes']
-
+html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".ke
 html_title = u"scikit-rf"
@@ -146,9 +154,9 @@ html_static_path = ['_static']
 
 # Custom sidebar templates, maps document names to template names.
 # TODO: split this up into several chunks
-html_sidebars = {
-   '**': ['sidebar_versions.html', 'sidebar_links.html'],
-}
+#html_sidebars = {
+#   '**': ['sidebar_versions.html', 'sidebar_links.html'],
+#}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.

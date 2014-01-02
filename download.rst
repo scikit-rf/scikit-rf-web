@@ -1,3 +1,15 @@
+
+.. raw:: html
+
+   <style type="text/css">
+     h1 {
+         display: none;
+         margin: 0;
+         padding: 0;
+     }
+   </style>
+
+
 ----------
 Download
 ----------
