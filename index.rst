@@ -15,14 +15,13 @@
 Index
 ======
 
-.. raw:: html
-   :file: carousel_simple.html
-  
+   
 ------------
 Description
 ------------
- **scikit-rf** (aka ``skrf``) is an Open Source, BSD-licensed package for  RF/Microwave engineering implemented in the Python programming language. It provides a modern, object-oriented library  which is both flexible and scalable.  See some of the `features`_ below and check out the  :doc:`documentation`
- for a quick look at using **scikit-rf**. 
+
+**scikit-rf** (aka ``skrf``) 
+is an Open Source, BSD-licensed package for  RF/Microwave engineering implemented in the Python programming language. It provides a modern, object-oriented library  which is both flexible and scalable.  See some of the `features`_ below and check out the  :doc:`documentation` for a more in-depth look at  **scikit-rf**. 
 
 --------------------------
 Getting Started
@@ -86,3 +85,13 @@ Help/Feedback/BUGs
 * If you find a problem in scikit-rf, please post an issue to the `Issue Tracker <https://github.com/scikit-rf/scikit-rf/issues>`_
 
 * Still need help? Contact me at **arsenovic at virginia.edu**
+
+
+--------------------------
+Some Examples 
+--------------------------
+
+.. raw:: html
+   :file: carousel_simple.html
+   
+|
