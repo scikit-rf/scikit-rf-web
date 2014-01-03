@@ -1,4 +1,3 @@
-
 .. raw:: html
 
    <style type="text/css">
@@ -10,12 +9,10 @@
    </style>
 
    
-
 ======
 Index
 ======
 
-   
 ------------
 Description
 ------------
@@ -95,3 +92,6 @@ Some Examples
    :file: carousel_simple.html
    
 |
+
+
+

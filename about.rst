@@ -56,16 +56,15 @@ Dominion MicroProbes, Inc
     
 http://dmprobes.com/ 
     
-DMPI designs, manufactures and sells millimeter and sub-millimeter wavelength on-wafer ground-signal-ground probes and associated components for electrical measurement of devices and materials. We have developed a scalable approach for the manufacturing of phsyically robust micro machined probes with low-insertion loss coupling to the DUT and DC biasing of probed circuits. 
+DMPI designs, manufactures and sells millimeter and sub-millimeter wavelength on-wafer ground-signal-ground probes and associated components for electrical measurement of devices and materials. DMPI has developed a scalable approach for the manufacturing of phsyically robust micro machined probes with low-insertion loss coupling to the DUT and DC biasing of probed circuits. 
 
 |
 |
 |
 
 
-.. image:: _static/vdi.gif
+.. image:: _static/vdi.jpg
     :align: right
-    :height: 300
 
 Virginia Diodes, Inc
 +++++++++++++++++++++++++
