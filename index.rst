@@ -38,7 +38,7 @@ Plot touchstone data on a smith chart, in **3 lines**.
 
 For more information, tutorials, and 
 
-examples, see the :doc:`documentation`
+examples, see the `Documentation <http://scikit-rf.readthedocs.org/>`_
 
 .. raw:: html
 
