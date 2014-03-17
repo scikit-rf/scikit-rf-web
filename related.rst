@@ -12,6 +12,13 @@ http://mradway.github.io/hycohanz/
 
 **hycohanz** is an Open Source (BSD license) Python wrapper interface to the ANSYS HFSS Windows COM API, enabling you to control HFSS from Python. hycohanz simplifies control of HFSS from Python for RF, microwave, and antenna engineers.
 
+Python IVI
+~~~~~~~~~~
+
+http://github.com/alexforencich/python-ivi
+
+Python IVI is a Python-based interpretation of the Interchangeable Virtual Instrument standard from the IVI foundation. Python IVI can use Python VXI-11, Python USBTMC, pySerial and linux-gpib to connect to instruments. The implementation of the initialize method takes a VISA resource string and attempts to connect to an instrument. 
+
 
 QUCS
 ~~~~~~~
