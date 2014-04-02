@@ -29,8 +29,9 @@ Install `setuptools <http://pypi.python.org/pypi/setuptools>`_. Afterwards you c
 ~~~~~~~~
 Source
 ~~~~~~~~
+**scikit-rf**'s source code is hosted at `Github <https://github.com/scikit-rf/scikit-rf>`_. 
 
-The development version of ``scikit-rf`` may be installed using::
+The development version of **scikit-rf** may be installed using::
 
     $ git clone git@github.com:scikit-rf/scikit-rf.git
     $ cd scikit-rf
