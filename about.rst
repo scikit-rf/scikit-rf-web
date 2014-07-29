@@ -93,7 +93,7 @@ SWISSto12 provides innovative passive components for mm-wave and THz
 applications. SWISSto12’s products include corrugated waveguide
 modules for low-loss signal transmission (available from 75 GHz up to
 1 THz and beyond), 3D printed metal-coated plastic components and
-solutions for material characterisation, on-waver probing and gas
+solutions for material characterisation, on-wafer probing and gas
 spectroscopy.
 
 |
