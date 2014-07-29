@@ -51,6 +51,14 @@ examples, see the `Documentation <http://scikit-rf.readthedocs.org/>`_
    <div style="clear: left;"/>
 
 
+--------------------------
+Some Examples 
+--------------------------
+
+.. raw:: html
+   :file: carousel_simple.html
+   
+|
 
 
 
@@ -65,9 +73,20 @@ Features
 * Connect n-port networks
 * Plot network parameter data [s, y, z] in ( dB, Phase, Smith chart, ...)
 * Save plots in vector format for publication (a feature of matplotlib)
-* 1-port calibration, given any number of standards (least squares)
-* 2-port calibration with support for switch-terms.
-* Instrument control of some VNA's ( partial support for HP8510, HP8720, and R&S ZVA40 )
+* 1-port calibration:
+   * SOL 
+   * Least Squares (any number of standards)
+   * SDDL
+* 2-port calibration:
+   * SOLT
+   * Unknown Thru
+   * General 8-term 
+   * TRL ( partial support only)
+   * Enhanced Response
+* Inegrated VNA virtual instruments (completeness varies by model)
+    * PNA, PNAX
+    * ZVA 
+    * HP8510, HP8720
 * Circuit synthesis
 * Transmission line models
 
@@ -81,17 +100,9 @@ Help/Feedback/BUGs
 
 * If you find a problem in scikit-rf, please post an issue to the `Issue Tracker <https://github.com/scikit-rf/scikit-rf/issues>`_
 
-* Still need help? Contact me at **arsenovic at virginia.edu**
+* Still need help? Contact me at **alexanderarsenovic at gmail.com**
 
 
---------------------------
-Some Examples 
---------------------------
-
-.. raw:: html
-   :file: carousel_simple.html
-   
-|
 
 
 

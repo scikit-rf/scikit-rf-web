@@ -18,7 +18,7 @@ License
 Copyright (c) 2010, Alexander Arsenovic
 All rights reserved.
 
-Copyright (c) 2013, scikit-rf Developers
+Copyright (c) 2014, scikit-rf Developers
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,

@@ -23,7 +23,7 @@ Development History
     :height: 200
 
 
-**scikit-rf** was born in the `University of Virginia's <http://www.virginia.edu>`_ millimeter wave research lab in 2009, to provide functionality that was not available commercially. It was originally called mwavepy, but was re-branded a `scikit <http://www.scikits.appspot.com/>`_ to emphasize its relationship to the scientific python community.  **scikit-rf** is licensed under the :doc:`BSD License <license>` and is currently being developed by a group of volunteers  `on Github <https://github.com/scikit-rf/scikit-rf/graphs/contributors>`_ . 
+**scikit-rf** was born in the `University of Virginia's <http://www.virginia.edu>`_ millimeter wave research lab in 2009, to provide functionality that was not available commercially. It was originally called mwavepy, but was re-branded a `scikit <http://www.scikits.appspot.com/>`_ to emphasize its relationship to the scientific python community.  **scikit-rf** is licensed under the :doc:`BSD License <license>` and is currently being actively developed by a group of volunteers  `on Github <https://github.com/scikit-rf/scikit-rf/graphs/contributors>`_ . 
 
 Motivation 
 ~~~~~~~~~~~
@@ -47,6 +47,23 @@ Users
 
 
 
+.. image:: _static/vdi.jpg
+    :align: right
+
+Virginia Diodes, Inc
++++++++++++++++++++++++++
+
+
+http://vadiodes.com/ 
+    
+VDI manufactures state-of-the-art test and measurement equipment for mm-wave and THz applications.  These products include Vector Network Analyzer, Spectrum Analyzer and Signal Generator Extension Modules that extend the capability of high performance microwave measurement tools to higher frequencies.  VDI's component products include detectors, mixers, frequency multipliers and custom systems for reliable operation at frequencies between 50 GHz and 2 THz. All VDI components include in-house fabricated GaAs Schottky diodes and microelectronic filter structures. 
+
+|
+|
+|
+|
+
+
 .. image:: _static/dmpi.jpg
     :align: left
     
@@ -63,25 +80,29 @@ DMPI designs, manufactures and sells millimeter and sub-millimeter wavelength on
 |
 
 
-.. image:: _static/vdi.jpg
+
+.. image:: _static/SWISSto12_logo_450px.jpg
     :align: right
 
-Virginia Diodes, Inc
+Swissto12
 +++++++++++++++++++++++++
 
+http://www.swissto12.com/
 
-
-    
-http://vadiodes.com/ 
-    
-VDI manufactures state-of-the-art test and measurement equipment for mm-wave and THz applications.  These products include Vector Network Analyzer, Spectrum Analyzer and Signal Generator Extension Modules that extend the capability of high performance microwave measurement tools to higher frequencies.  VDI's component products include detectors, mixers, frequency multipliers and custom systems for reliable operation at frequencies between 50 GHz and 2 THz. All VDI components include in-house fabricated GaAs Schottky diodes and microelectronic filter structures. 
+SWISSto12 provides innovative passive components for mm-wave and THz
+applications. SWISSto12’s products include corrugated waveguide
+modules for low-loss signal transmission (available from 75 GHz up to
+1 THz and beyond), 3D printed metal-coated plastic components and
+solutions for material characterisation, on-waver probing and gas
+spectroscopy.
 
 |
 |
 |
 |
+|
 
-If your lab, company, or organization uses **scikit-rf** and would like to be listed please contact me at **arsenovic at virginia.edu**
+If your lab, company, or organization uses **scikit-rf** and would like to be listed please contact me at **alexanderarsenovic at gmail.com**
 
 |
 |
