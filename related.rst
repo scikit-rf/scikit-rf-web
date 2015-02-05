@@ -11,7 +11,7 @@ HFTools
 
 https://github.com/hftools/hftools
 
-Hftools is a python package containing useful tools for high frequency electrical engineering problems. Hftools is focused on generally useful tools such as file readers, multiport classes, an improved array class (hfarray), dataset class. More specialized tools will be broken out into seprate packages. One such package is caltools which contains tools for doing Vector Network Analyzer (VNA) calibrations.ort** tries to provide an intuitive interface to n-port network parameters. The frequency dependence of the parameters is handled transparantly so that the user does not have to take care of this manually. This way, performing calculations on n-port data is simplified significantly. In addition, a number of functions are provided to manipulate the n-port data, such as converting between different n-port representations.
+Hftools is a python package containing useful tools for high frequency electrical engineering problems. Hftools is focused on generally useful tools such as file readers, multiport classes, an improved array class (hfarray), dataset class. More specialized tools will be broken out into seprate packages. One such package is caltools which contains tools for doing Vector Network Analyzer (VNA) calibrations
 
 
 Python IVI
