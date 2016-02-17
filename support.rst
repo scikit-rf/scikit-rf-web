@@ -33,7 +33,7 @@ development services, please see the following list of companies who support sci
     
 
 
-`810 Labs Software Division <www.810lab.com>`_  offers support services for scikit-rf. These 
+`810 Labs Software Division <http://www.810lab.com>`_  offers support services for scikit-rf. These 
 services include:
 
  * Implementation of specific features in scikit-rf
