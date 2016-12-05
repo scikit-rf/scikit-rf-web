@@ -26,9 +26,6 @@ install scikit-rf by entering the following into a terminal::
 
     conda install -c scikit-rf  scikit-rf
     
-If you would like to install the `development` version, use::
-
-    conda install -c https://conda.anaconda.org/scikit-rf/channel/dev scikit-rf
 
 ~~~~~~~~~~~~~~~~
 pip
