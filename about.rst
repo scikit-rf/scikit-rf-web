@@ -67,6 +67,9 @@ If you are giving a presentation featuring work/research that makes use of sciki
 
 Users
 ~~~~~~~~
+
+Below is a list of commercial users of scikit-rf.
+
 |
 |
 
