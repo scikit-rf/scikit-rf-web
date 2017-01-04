@@ -39,6 +39,31 @@ innovative solutions. **scikit-rf** was consciously designed to provide essentia
 
 ------------
 
+Acknowledging or Citing scikit-rf
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In Publications
+++++++++++++++++
+
+If you use scikit-rf for work/research presented in a publication (whether directly, or as a dependency to another package), we ask that you ackowledge it. Perhaps with something like:
+
+*This research made use of scikit-rf, an open-source Python package for RF and Microwave applications.*
+
+You can also include a link to www.scikit-rf.org (if the journal allows this) in addition to the above text.
+
+In Presentations or Apps
++++++++++++++++++++++++++
+
+If you are giving a presentation featuring work/research that makes use of scikit-rf or creating an app that  uses sciki-rf under the hood, we provide this *powered by* image, 
+( :download:`PNG <_static/powered_by_scikit-rf.png>` | :download:`SVG <_static/powered_by_scikit-rf.svg>` ).
+
+
+.. image:: _static/powered_by_scikit-rf.png
+    :width: 500
+
+
+------------
+
 
 Users
 ~~~~~~~~
