@@ -4,7 +4,7 @@
 New qtapps module
 -------------------------------
 
-``qtapps`` are being created to provide **modular, re-useable apps** for data retrieval, plottign,  calibration and more. 
+``qtapps`` are being created to provide **modular, re-useable apps** for data retrieval, plotting,  calibration and more. 
 
 
 .. image:: _static/scikit-rf_datagrabber.png
