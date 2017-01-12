@@ -13,6 +13,18 @@
 Index
 ======
 
+-----------------------------------------
+Update: **scikit-rf** goes graphical
+-----------------------------------------
+
+
+New `qtapps`_ are being created to provide  **modular, re-useable apps** for data retrieval, plotting,  calibration and more. 
+
+.. image:: _static/scikit-rf_datagrabber.png
+    :height: 200
+    :align: center
+    :target: qtapps_
+
 ------------
 Description
 ------------
@@ -49,6 +61,10 @@ examples, see the `Documentation <http://scikit-rf.readthedocs.org/>`_
    </div>
 
    <div style="clear: left;"/>
+
+
+
+
 
 
 --------------------------
@@ -105,4 +121,4 @@ Help/Feedback/BUGs
 
 
 
-
+.. _qtapps: qtapps.html
