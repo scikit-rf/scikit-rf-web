@@ -57,3 +57,14 @@ These are meant to be useful, but also conceptual. I would greatly appreciate te
 
 |
 |
+
+.. image:: _static/vince.jpg
+    :height: 100
+    :align: left
+
+|
+-- vince
+
+|
+|
+
