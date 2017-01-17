@@ -12,8 +12,6 @@
 # serve to show the default.
 
 
-import warnings
-warnings.filterwarnings('ignore')
 
 import sys, os
 import sphinx_bootstrap_theme
