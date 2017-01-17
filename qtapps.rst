@@ -63,7 +63,7 @@ These are meant to be useful, but also conceptual. I would greatly appreciate te
     :align: left
 
 |
--- vince
+-- `vince <https://github.com/dvincentwest>`_
 
 |
 |
