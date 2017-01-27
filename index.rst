@@ -83,28 +83,30 @@ Some Examples
 Features
 -------------
 
-* Read/Write touchstone (.s2p, s?p) files
-* Basic algebraic operations on networks' scattering parameters
-* Cascade/De-embed 2-port networks
-* Connect n-port networks
-* Plot network parameter data [s, y, z] in ( dB, Phase, Smith chart, ...)
-* Save plots in vector format for publication (a feature of matplotlib)
-* 1-port calibration:
-   * SOL 
-   * Least Squares (any number of standards)
-   * SDDL
-* 2-port calibration:
-   * SOLT
-   * Unknown Thru
-   * General 8-term 
-   * TRL ( partial support only)
-   * Enhanced Response
-* Inegrated VNA virtual instruments (completeness varies by model)
-    * PNA, PNAX
-    * ZVA 
-    * HP8510, HP8720
-* Circuit synthesis
-* Transmission line models
+* Microwave Network Operations:
+    * Read/Write touchstone (.s2p, s?p) files
+    * Arithmetic operations on scattering parameters
+    * Cascade/De-embed 2-port networks
+    * Frequency and port slicing and  concatenation.
+    * Connect n-port networks
+    * s/z/y/abcd/t - parameter conversion
+* Sets of Networks:
+    * Statistical properties of NetworkSets 
+    * Methods to sort and visualize set behavoir
+* Plotting abilities:
+    * Rectangular Plots ( dB, mag, Phase)
+    * Smith Chart
+    * Automated Uncertainty bounds
+* Offline Calibration:
+   * One-Port: SOL, Least Squares, SDDL
+   * Two-Port: TRL, Multiline TRL, SOLT, Unknown Thru,  8-term
+   * Partial : Enhanced Response, One-Port Two-Path
+* Virtual Instruments (completeness varies by model)
+    * VNAs: PNA, PNAX, ZVA, HP8510, HP8720
+    * SA: HP8500
+    * Others: ESP300
+* Transmission Physics: 
+    * Coax, CPW, Freespace, RectangularWaveguide, DistributedCircuit
 
 
 --------------------------
