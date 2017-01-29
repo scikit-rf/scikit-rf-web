@@ -92,20 +92,20 @@ Features
     * s/z/y/abcd/t - parameter conversion
 * Sets of Networks:
     * Statistical properties of NetworkSets 
-    * Methods to sort and visualize set behavoir
+    * Methods to sort and visualize set behavior
 * Plotting abilities:
-    * Rectangular Plots ( dB, mag, Phase)
+    * Rectangular Plots ( dB, mag, Phase, group delay)
     * Smith Chart
     * Automated Uncertainty bounds
 * Offline Calibration:
    * One-Port: SOL, Least Squares, SDDL
-   * Two-Port: TRL, Multiline TRL, SOLT, Unknown Thru,  8-term
+   * Two-Port: TRL, Multiline TRL, SOLT, Unknown Thru,  8/16-Term
    * Partial : Enhanced Response, One-Port Two-Path
 * Virtual Instruments (completeness varies by model)
     * VNAs: PNA, PNAX, ZVA, HP8510, HP8720
     * SA: HP8500
     * Others: ESP300
-* Transmission Physics: 
+* Transmission Line Physics: 
     * Coax, CPW, Freespace, RectangularWaveguide, DistributedCircuit
 
 
