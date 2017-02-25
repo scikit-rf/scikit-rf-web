@@ -40,8 +40,9 @@ git
 ~~~~~~~~~~~
 
 The bleeding-edge development version of **scikit-rf** may be installed using::
-
-    git clone git@github.com:scikit-rf/scikit-rf.git
+    
+    
+    git clone https://github.com/scikit-rf/scikit-rf.git
     cd scikit-rf
     python setup.py install
 
