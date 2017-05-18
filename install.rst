@@ -15,16 +15,17 @@ Install
 ----------
 
 
+**scikit-rf** is supported and tested on Python versions 2.7, 3.5, 3.6. There are several ways to install listed below. 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 anaconda (recommended)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The easiest way to install scikit-rf is to first install 
-`anaconda <http://continuum.io/downloads>`_. Once anaconda is installed you can 
-install scikit-rf by entering the following into a terminal::
+`anaconda <http://continuum.io/downloads>`_. Once anaconda is installe,  you can 
+install scikit-rf from the `conda-forge <https://conda-forge.github.io/>`_ channel by entering the following into a terminal::
 
-    conda install -c scikit-rf  scikit-rf
+    conda install -c conda-forge  scikit-rf
     
 
 ~~~~~~~~~~~~~~~~
