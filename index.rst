@@ -13,24 +13,13 @@
 Index
 ======
 
------------------------------------------
-Update: **scikit-rf** goes graphical
------------------------------------------
-
-
-New `qtapps`_ are being created to provide  **modular, re-useable apps** for data retrieval, plotting,  calibration and more. 
-
-.. image:: _static/scikit-rf_datagrabber.png
-    :height: 200
-    :align: center
-    :target: qtapps_
 
 ------------
 Description
 ------------
 
 **scikit-rf** (aka ``skrf``) 
-is an Open Source, BSD-licensed package for  RF/Microwave engineering implemented in the Python programming language. It provides a modern, object-oriented library  which is both flexible and scalable.  See some of the `features`_ below and check out the  `Documentation <http://scikit-rf.readthedocs.org/>`_ or `Examples <http://nbviewer.ipython.org/github/scikit-rf/examples/blob/master/index.ipynb>`_ for a more in-depth look at  **scikit-rf**. 
+is an Open Source, BSD-licensed package for  RF/Microwave engineering implemented in the Python programming language. It provides a modern, object-oriented library  for network analysis and calibration which is both flexible and scalable.  See some of the `features`_ below and check out the  `Documentation <http://scikit-rf.readthedocs.org/>`_ or `Examples <http://nbviewer.ipython.org/github/scikit-rf/examples/blob/master/index.ipynb>`_ for a more in-depth look at  **scikit-rf**. 
 
 --------------------------
 Getting Started
@@ -93,6 +82,9 @@ Features
 * Sets of Networks:
     * Statistical properties of NetworkSets 
     * Methods to sort and visualize set behavior
+* GUI support through `qtapps`_ 
+    * modular, re-useable apps
+    * supports  data retrieval, plotting,  calibration and more. 
 * Plotting abilities:
     * Rectangular Plots ( dB, mag, Phase, group delay)
     * Smith Chart
