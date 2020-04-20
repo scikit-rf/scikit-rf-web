@@ -111,7 +111,7 @@ Help/Feedback/BUGs
 
 * If you find a problem in scikit-rf, please post an issue to the `Issue Tracker <https://github.com/scikit-rf/scikit-rf/issues>`_
 
-* Still need help? Contact me at **alexanderarsenovic at gmail.com**
+* Still need help? Contact me at **alexanderarsenovic at gmail.com** or post in the user channel on the `scikit-rf slack <https://scikit-rf.slack.com>`_
 
 
 
