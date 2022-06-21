@@ -9,6 +9,7 @@
 help, there will always be public channels available:
 
  * `mailing list <http://groups.google.com/group/scikit-rf>`_
+ * `slack <https://scikit-rf.slack.com>`_
  * `github <http://github.com/scikit-rf/scikit-rf>`_ 
 
 For those who need private support and
