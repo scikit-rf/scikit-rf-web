@@ -11,8 +11,18 @@
 
 
 ----------
-scikit-rf store
+Merch
 ----------
+ 
+
+scikit-rf store
+~~~~~~~~~~~
+
+
+Do you like using scikit-rf? Merchandise is available for you to express your love.
+
+
+
 
 .. raw:: html
 
