@@ -186,6 +186,25 @@ spectroscopy.
 |
 |
 |
+
+
+
+.. image:: _static/SweepMe_fulltext_medRes.png
+    :align: left
+
+SweepMe!
++++++++++++++++++++++++++
+
+https://sweep-me.net/
+
+SweepMe! is a multi-tool test & measurement software that allows to quickly combine instruments from different vendors using python programming language. The module 'NetworkAnalyzer' uses scikit-rf for exporting touchstone files. Starting from version 1.5.6, SweepMe! will be shipped with scikit-rf by default so that one can easily use the package in own python scripts that can be added to a measurement routine.
+
+
+
+
+|
+|
+|
 |
 |
 
