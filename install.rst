@@ -20,7 +20,7 @@ Install
 .. |version| image:: https://img.shields.io/pypi/v/scikit-rf
 :   alt: PyPI - Version
 
-**scikit-rf** is supported and tested on |pypi|. There are several ways |version| to install listed below. 
+**scikit-rf** is supported and tested on |pypi|. There are several ways to install |version| listed below. 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 anaconda (recommended)
