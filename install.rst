@@ -15,12 +15,14 @@ Install
 ----------
 
 .. |pypi| image:: https://img.shields.io/pypi/pyversions/scikit-rf
-    :   alt: PyPI - Python Version
+    :alt: PyPI - Python Version
 
 .. |version| image:: https://img.shields.io/pypi/v/scikit-rf
-:   alt: PyPI - Version
+    :alt: PyPI - Version
 
-**scikit-rf** is supported and tested on |pypi|. There are several ways to install |version| listed below. 
+**scikit-rf** is supported and tested on |pypi|.
+
+Current version of **scikit-rf** is |version|. There are several ways to install **scikit-rf**, listed below. 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 anaconda (recommended)
@@ -37,7 +39,7 @@ install scikit-rf from the `conda-forge <https://conda-forge.github.io/>`_ chann
 pip
 ~~~~~~~~~~~~~~~~
 
-If you dont want to install anaconda (really, why not?), you can use  `pip`::
+If you dont want to install anaconda, you can use  `pip`::
 
     pip install scikit-rf
 
