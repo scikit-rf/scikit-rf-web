@@ -186,6 +186,37 @@ spectroscopy.
 |
 |
 |
+
+
+
+.. image:: _static/SweepMe_fulltext_medRes.png
+    :align: left
+
+SweepMe!
++++++++++++++++++++++++++
+
+https://sweep-me.net/
+
+SweepMe! is a multi-tool test & measurement software that allows to quickly combine instruments from different vendors using python programming language. The module 'NetworkAnalyzer' uses scikit-rf for exporting touchstone files. Starting from version 1.5.6, SweepMe! will be shipped with scikit-rf by default so that one can easily use the package in own python scripts that can be added to a measurement routine.
+
+|
+|
+|
+
+.. image:: _static/logo-cea.png
+    :align: right
+
+CEA
++++++++++++++++++++++++++
+
+https://www.cea.fr
+
+
+The French Alternative Energies and Atomic Energy Commission or CEA (French: Commissariat à l'énergie atomique et aux énergies alternatives), is a French public government-funded research organisation in the areas of energy, defense and security, information technologies and health technologies. The CEA maintains a cross-disciplinary culture of engineers and researchers, building on the synergies between fundamental and technological research. 
+
+|
+|
+|
 |
 |
 
